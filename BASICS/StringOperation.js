@@ -26,3 +26,4 @@ console.log(str.indexOf('w'))
 //substring
 console.log(str.slice(4))
 console.log(str.substring(0,3))
+console.log(str.split(' '))
